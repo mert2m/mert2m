@@ -15,8 +15,6 @@ Ben Mert Polat. Düzce Üniversitesi bilgisayar programcılığı 2. sınıf ö�
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mert2m&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=mertbadass)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
