@@ -18,7 +18,7 @@ I am Mert, a recent graduate of Duzce University with a major in Computer Progra
 
 During my academic journey, I was part of the Software Team in the RoboTaxi Autonomous Vehicle project at Duzce University Mekatek Community for a year, leading the team as captain for about 5 months. This experience allowed me to leverage technologies like Python, ROS, and YOLO. Inspired by the competition, I voluntarily pursued an internship in the DevOps field at an artificial intelligence company.
 
-Currently, I'm contributing as a DevOps Intern at Zip Turkey, driven by my ambition to establish a successful career in the DevOps domain. My experience encompasses a diverse array of technologies, including Docker, Kubernetes, Helm, Grafana, Prometheus, MongoDB, Ansible, Heroku, Chef, Puppet, Zabbix, Foreman, AWX, and Terraform. Moreover, I've successfully developed various applications.
+Currently, I'm contributing as a Jr. DevOps Engineer at Zip Turkey, driven by my ambition to establish a successful career in the DevOps domain. My experience encompasses a diverse array of technologies, including Docker, Kubernetes, Helm, Grafana, Prometheus, MongoDB, Ansible, Heroku, Chef, Puppet, Zabbix, Foreman, AWX, and Terraform. Moreover, I've successfully developed various applications.
 
 As I progress, I remain deeply motivated to further strengthen my expertise in the DevOps field and aim to secure a prominent position in this dynamic and exciting industry.
 
