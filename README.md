@@ -75,8 +75,6 @@ Hi, I'm [Mert POLAT](https://www.linkedin.com/in/mertt-polat/), a DevOps/Cloud E
 <p align="left">
 <img  src="https://github-readme-stats.vercel.app/api?username=mert2m&show_icons=true&theme=radical" alt="mert2m" width="480" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mert2m&layout=compact&hide=html&theme=radical" alt="mert2m"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mert2m&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mert2m&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </p>
 
 
