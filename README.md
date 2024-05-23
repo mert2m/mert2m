@@ -1,42 +1,23 @@
-<h4 align="left">💫 About Me:</h4>
-<p>Hello there! I'm Mert ☁️ 🐧 🐳 ☸️, a recent graduate from Duzce University with a specialization in Computer Programming. My passion is deeply rooted in the DevOps domain, System & Network, and I'm actively honing my skills to excel in these areas.</p>
-<p>👨‍💻 I have a robust background in cloud engineering and DevOps practices. Currently, I'm thriving as an Associate Cloud Engineer at ACEDEMAND IT Consulting Services - a Google Cloud Premier Partner. Here, I have been instrumental in designing, implementing, and optimizing cloud-based solutions for our clients. I leverage my expertise in technologies such as Docker, Kubernetes, Helm, Grafana, Prometheus, MongoDB, Ansible, Heroku, Chef, Puppet, Zabbix, Foreman, AWX, and Terraform to streamline deployment processes, ensure scalability, and enhance system monitoring.</p>
-<p>Prior to this role, I kick-started my career as a Jr. DevOps Engineer at Zip Turkey, where I played a key role in managing and maintaining the company's infrastructure. I led initiatives to automate deployment pipelines, resulting in a significant reduction in deployment times and increased overall efficiency. Moreover, I collaborated closely with development teams to implement best practices for continuous integration and delivery.</p>
-<p>During my academic journey, I was part of the Software Team in the RoboTaxi Autonomous Vehicle project at Duzce University Mekatek Community for a year, leading the team as captain for about 5 months. This experience allowed me to leverage technologies like Python, ROS, and YOLO. Inspired by the competition, I voluntarily pursued an internship in the DevOps field at an artificial intelligence company.</p>
-<p>🔭 Currently, I'm delving into the realm of **Google Cloud x Data Analysis**, exploring the incredible potential of data-driven solutions.</p>
-<p>🌱 Additionally, I'm committed to continuous learning, diving into various **DevOps tools and Cloud platforms** to stay at the forefront of technological advancements.</p>
-<p>📝 Writing is another avenue of my journey. I frequently share insights and experiences on DevOps, Orchestration, and Containerization on [Medium](https://medium.com/@merttpolat).</p>
-<p>💬 Feel free to reach out to me if you'd like to discuss anything related to DevOps, Orchestration, or Containerization.</p>
-<p>📫 You can contact me via email at **mertt.polat@hotmail.com**.</p>
-<p>As I continue to grow, I remain deeply motivated to enhance my expertise in the DevOps field and aspire to secure a prominent position in this dynamic and thrilling industry.</p>
+## Hi there, I'm Mert POLAT ☁️ 🐧 🐳 ☸️
 
-###
 
-<div align="left">
-  <a href="https://medium.com/@merttpolat" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mertt-polat/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/16855444" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://twitter.com/mertbadass" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://instagram.com/mmertt.polat" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/#7036" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
+<!--STARTS_HERE_QUOTE_README-->
+<i>❝Basically Quote?❞</i>
+<!--ENDS_HERE_QUOTE_README-->
 
-###
+Hi, I'm [Mert POLAT](https://www.linkedin.com/in/mertt-polat/), a DevOps/Cloud Engineer r 🚀 from Turkey, 
+<img align="right" alt="GIF" src="1609095319385.gif?raw=true" width="500" height="320" />
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="30" alt="kubernetes logo"  />
+### Talking about Personal Stuffs
+
+- I'm a Computer Programming graduate from Duzce University with a passion for DevOps, System & Network.
+- I work as an Associate Cloud Engineer at ACEDEMAND IT Consulting Services, a Google Cloud Premier Partner. My role involves designing and optimizing cloud-based solutions using technologies like Docker, Kubernetes, and Terraform.
+- Previously, I was a Jr. DevOps Engineer at Zip Turkey, where I automated deployment pipelines and improved infrastructure efficiency.
+- Currently, I'm exploring Google Cloud and Data Analysis, and I write about DevOps on [Medium](https://medium.com/@merttpolat).
+
+
+### 🧰 Languages and Tools
+<p align="left">   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="30" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
   <img width="12" />
@@ -80,30 +61,49 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" height="30" alt="heroku logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="30" alt="ubuntu logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge" height="30" alt="vim logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="30" alt="go logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white&style=for-the-badge" height="30" alt="ros logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" height="30" alt="slack logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" height="30" alt="terraform logo"  />
-</div>
+</p>
 
-###
 
-<div align="center">
+
+
+### :octocat: Github Statistics
+<p align="left">
+<img  src="https://github-readme-stats.vercel.app/api?username=mert2m&show_icons=true&theme=radical" alt="mert2m" width="480" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mert2m&layout=compact&hide=html&theme=radical" alt="mert2m"/>
   <img src="https://github-readme-stats.vercel.app/api?username=mert2m&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mert2m&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</p>
+
+
+### :card_index: Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Pushing Docker Images to GitHub Registry(ghcr.io): Manual and Automated Methods](https://medium.com/devopsturkiye/pushing-docker-images-to-githubs-registry-manual-and-automated-methods-19cce3544eb1)
+- [Docker Commands: What Are They For and How to Use Them?](https://medium.com/devopsturkiye/docker-commands-what-are-they-for-and-how-to-use-them-883e135eac02)
+
+<!-- BLOG-POST-LIST:END -->
+
+<div align="left">
+  <a href="https://medium.com/@merttpolat" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mertt-polat/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/16855444" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://twitter.com/devmertops" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://instagram.com/mmertt.polat" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.gg/#7036" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
 </div>
-
-###
-
-###
