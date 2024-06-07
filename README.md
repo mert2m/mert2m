@@ -5,7 +5,7 @@
 <i>❝“I see little commercial potential for the Internet for at least ten years.”— Bill Gates, 1994   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-Hi, I'm [Mert POLAT](https://www.linkedin.com/in/mertt-polat/), a DevOps/Cloud Engineer r 🚀 from Turkey, 
+Hi, I'm [Mert POLAT](https://www.linkedin.com/in/mertt-polat/), a DevOps/Cloud Engineer🚀 from Turkey, 
 <img align="right" alt="GIF" src="1609095319385.gif?raw=true" width="500" height="320" />
 
 ### Talking about Personal Stuffs
