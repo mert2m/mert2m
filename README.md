@@ -64,11 +64,11 @@ Hi, I'm [Mert POLAT](https://www.linkedin.com/in/mertt-polat/), a DevOps/Cloud E
 
 ### :card_index: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Private GKE Cluster and Bastion VM with Terraform](https://medium.com/devopsturkiye/creating-a-private-gke-cluster-and-bastion-vm-with-terraform-004b164f86f2?source=rss-5900ce6c3f47------2)
 - [Docker Commands: What Are They For and How to Use Them?](https://medium.com/devopsturkiye/docker-commands-what-are-they-for-and-how-to-use-them-883e135eac02?source=rss-5900ce6c3f47------2)
 - [Gitlab Runner Installation Steps](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/gitlab-runner-installation-steps-2e2b5c11ffd6?source=rss-5900ce6c3f47------2)
 - [Pushing Docker Images to GitHub’s Registry: Manual and Automated Methods](https://medium.com/devopsturkiye/pushing-docker-images-to-githubs-registry-manual-and-automated-methods-19cce3544eb1?source=rss-5900ce6c3f47------2)
 - [How to Resolve GCP Public Key SSH Error?](https://medium.com/devopsturkiye/how-to-resolve-gcp-public-key-ssh-error-315742b909ef?source=rss-5900ce6c3f47------2)
-- [File Sharing Between Linux Operating Systems: Mounting with NFS and Samba](https://medium.com/t%C3%BCrk-telekom-bulut-teknolojileri/file-sharing-between-linux-operating-systems-mounting-with-nfs-and-samba-313d4cfad5f6?source=rss-5900ce6c3f47------2)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="left">
