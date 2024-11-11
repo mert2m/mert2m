@@ -10,7 +10,7 @@ Hi, I'm [Mert POLAT](https://www.linkedin.com/in/mertt-polat/), a DevOps/Cloud E
 
 ### Talking about Personal Stuffs
 
-- I'm a Computer Programming graduate from Duzce University with a passion for DevOps, System & Network.
+- I graduated from Duzce University with a degree in Computer Programming, and I'm currently pursuing a bachelor's degree in Management Information Systems at Anadolu University.
 - I work as an Associate Cloud Engineer at ACEDEMAND IT Consulting Services, a Google Cloud Premier Partner. My role involves designing and optimizing cloud-based solutions using technologies like Docker, Kubernetes, and Terraform.
 - Previously, I was a Jr. DevOps Engineer at Zip Turkey, where I automated deployment pipelines and improved infrastructure efficiency.
 - Currently, I'm exploring Google Cloud and Data Analysis, and I write about DevOps on [Medium](https://medium.com/@merttpolat).
