@@ -2,7 +2,7 @@
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Let us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to human beings what we want a computer to do.”— Donald E. Knuth   ❞</i>
+<i>❝“It has been discovered that C++ provides a remarkable facility for concealing the trivial details of a program — such as where its bugs are.”— David Keppel   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 Hi, I'm [Mert POLAT](https://www.linkedin.com/in/mertt-polat/), a DevOps/Cloud Engineer🚀 from Turkey, 
