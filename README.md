@@ -2,7 +2,7 @@
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.”— Stephen Hawking   ❞</i>
+<i>❝“If people never did silly things, nothing intelligent would ever get done.”— Ludwig Wittgenstein   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 Hi, I'm [Mert POLAT](https://www.linkedin.com/in/mertt-polat/), a DevOps/Cloud Engineer🚀 from Turkey, 
