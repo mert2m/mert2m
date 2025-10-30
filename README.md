@@ -2,7 +2,7 @@
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first-ever registered domain name was Symbolics.com for free.❞</i>
+<i>❝The term “World Wide Web” was invented by Tim Berners in 1990.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 Hi, I'm [Mert POLAT](https://www.linkedin.com/in/mertt-polat/), a DevOps/Cloud Engineer🚀 from Turkey, 
