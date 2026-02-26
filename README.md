@@ -2,7 +2,7 @@
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The computer was born to solve problems that did not exist before.”— Bill Gates    ❞</i>
+<i>❝“Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.”— Norman Augustine   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 Hi, I'm [Mert POLAT](https://www.linkedin.com/in/mertt-polat/), a DevOps/Cloud Engineer🚀 from Turkey, 
