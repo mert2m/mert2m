@@ -64,11 +64,11 @@ Hi, I'm [Mert POLAT](https://www.linkedin.com/in/mertt-polat/), a DevOps/Cloud E
 
 ### :card_index: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Production Chaos Engineering Platform: From Manual Operations to Automated Resilience…](https://medium.com/intertechit/building-a-production-chaos-engineering-platform-from-manual-operations-to-automated-resilience-38c9c6fc96dd?source=rss-5900ce6c3f47------2)
+- [Production’da Chaos Engineering Platformu: Manuel İşlerden Oto. Dayanıklılık Testine](https://medium.com/intertechit/productionda-chaos-engineering-platformu-manuel-i%CC%87%C5%9Flerden-oto-dayan%C4%B1kl%C4%B1l%C4%B1k-testine-2804f704144a?source=rss-5900ce6c3f47------2)
 - [Docker Desktop 4.40: Transforming Local AI Development with Model Runner and Enhanced AI Tools](https://medium.com/devopsturkiye/docker-desktop-4-40-transforming-local-ai-development-with-model-runner-and-enhanced-ai-tools-e90a668b5d76?source=rss-5900ce6c3f47------2)
 - [End-to-End CI/CD on Google Cloud: Terraform, Jenkins, and GitHub in Harmony](https://medium.com/devopsturkiye/end-to-end-ci-cd-on-google-cloud-terraform-jenkins-and-github-in-harmony-7ad7630b16fb?source=rss-5900ce6c3f47------2)
 - [Understanding Istio and Ambient &lpar;Mode-Mesh&rpar;](https://medium.com/devopsturkiye/understanding-istio-and-ambient-mode-mesh-481eb7ea48e5?source=rss-5900ce6c3f47------2)
-- [Creating a Private GKE Cluster and Bastion VM with Terraform](https://medium.com/devopsturkiye/creating-a-private-gke-cluster-and-bastion-vm-with-terraform-004b164f86f2?source=rss-5900ce6c3f47------2)
-- [Docker Commands: What Are They For and How to Use Them?](https://medium.com/devopsturkiye/docker-commands-what-are-they-for-and-how-to-use-them-883e135eac02?source=rss-5900ce6c3f47------2)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="left">
