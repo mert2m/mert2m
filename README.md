@@ -2,7 +2,7 @@
 
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The world is one big data problem.”— Andrew McAfee❞</i>
+<i>❝More than 80% of the emails sent daily are spams.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 Hi, I'm [Mert POLAT](https://www.linkedin.com/in/mertt-polat/), a DevOps/Cloud Engineer🚀 from Turkey, 
